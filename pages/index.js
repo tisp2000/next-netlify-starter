@@ -21,3 +21,7 @@ export default function Home() {
     </div>
   )
 }
+
+https://iterkini.web.id/
+https://cahayaislam.my.id/
+https://pintaryuk.my.id/
