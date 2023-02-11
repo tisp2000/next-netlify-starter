@@ -16,9 +16,8 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
-https://iterkini.web.id/
-https://cahayaislam.my.id/
-https://pintaryuk.my.id/
+<a href="https://iterkini.web.id/">info terkini</a>
+    
 
       <Footer />
     </div>
